@@ -1,0 +1,10 @@
+{
+  "title": "NewsRoom HTML Codex Inspired Homepage",
+  "type": "page",
+  "version": "1.0.0",
+  "content": [
+    {"elType":"section","settings":{"css_classes":"hc-breaking"},"elements":[{"elType":"column","elements":[{"elType":"widget","widgetType":"heading","settings":{"title":"Breaking News"}},{"elType":"widget","widgetType":"text-editor","settings":{"editor":"Global markets rally as technology, culture, and sports stories dominate today's headlines."}}]}]},
+    {"elType":"section","settings":{"css_classes":"hc-hero"},"elements":[{"elType":"column","settings":{"_column_size":66},"elements":[{"elType":"widget","widgetType":"heading","settings":{"title":"Elementor-ready news portal with a classic HTML Codex magazine feel","header_size":"h1"}}]},{"elType":"column","settings":{"_column_size":33},"elements":[{"elType":"widget","widgetType":"heading","settings":{"title":"Morning briefing highlights the stories readers need first"}},{"elType":"widget","widgetType":"heading","settings":{"title":"Markets, startups, and finance updates in one clean block"}}]}]},
+    {"elType":"section","settings":{"css_classes":"hc-main"},"elements":[{"elType":"column","settings":{"_column_size":66},"elements":[{"elType":"widget","widgetType":"heading","settings":{"title":"Latest News"}},{"elType":"widget","widgetType":"text-editor","settings":{"editor":"Replace these placeholders with Elementor Posts widgets or dynamic WordPress content."}}]},{"elType":"column","settings":{"_column_size":33},"elements":[{"elType":"widget","widgetType":"heading","settings":{"title":"Trending"}},{"elType":"widget","widgetType":"text-editor","settings":{"editor":"Politics · Technology · Entertainment · Sports"}}]}]}
+  ]
+}
