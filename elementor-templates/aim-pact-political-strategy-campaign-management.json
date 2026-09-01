@@ -1,0 +1,3477 @@
+{
+  "version": "0.4",
+  "title": "Political Strategy & Campaign Management | AIM-PACT",
+  "type": "page",
+  "content": [
+    {
+      "id": "5534ea9",
+      "elType": "section",
+      "settings": {
+        "content_width": "boxed",
+        "gap": "extended",
+        "padding": {
+          "unit": "px",
+          "top": "135",
+          "right": "20",
+          "bottom": "135",
+          "left": "20"
+        },
+        "_css_classes": "aim-hero"
+      },
+      "elements": [
+        {
+          "id": "341314a",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "a043bae",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "<style>\n@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&family=Open+Sans:wght@400;600;700&display=swap');\n.aim-hero{background-image:linear-gradient(rgba(10,16,27,.68),rgba(10,16,27,.68)),url(https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1800&q=85)!important;background-size:cover!important;background-position:center!important}.aim-hero h1,.aim-dark h2,.aim-dark h3,.aim-dark p,.aim-timeline h2,.aim-timeline h3,.aim-timeline p,.aim-cta h2,.aim-cta p{color:#fff!important}.aim-hero h1{font-size:56px!important;text-shadow:2px 2px 8px rgba(0,0,0,.3)}.aim-hero .elementor-button{margin:6px}.aim-section-title h2{font-size:43px!important}.service-card{background:#f9f9f9;border-top:3px solid #FF6B35;border-radius:8px;padding:28px 22px;transition:.25s;min-height:440px}.service-card:hover,.pillar-card:hover,.case-card:hover,.tool-card:hover,.price-card:hover{transform:translateY(-5px);box-shadow:0 16px 30px rgba(0,0,0,.14)}.service-card:nth-child(2){border-color:#00B4D8}.service-card:nth-child(3){border-color:#06D6A0}.service-card:nth-child(4){border-color:#FF006E}.check-list ul,.phase-content ul{padding-left:20px}.check-list li,.phase-content li{margin:9px 0}.aim-dark{background:#1a1a1a!important}.pillar-card{padding:18px;transition:.25s}.case-card,.tool-card,.price-card{background:#fff;border-radius:8px;padding:24px;box-shadow:0 5px 20px rgba(0,0,0,.08);transition:.25s}.aim-timeline{background:linear-gradient(120deg,#1a1a1a,#2a2a2a)!important}.timeline-item{border-top:3px solid #FF6B35;padding:22px 16px}.timeline-item:nth-child(2){border-color:#00B4D8}.timeline-item:nth-child(3){border-color:#06D6A0}.timeline-item:nth-child(4){border-color:#FFB703}.timeline-item:nth-child(5){border-color:#FF006E}.price-featured{border:4px solid #FF6B35}.aim-cta{background:linear-gradient(120deg,#FF6B35,#FF8866)!important}.aim-cta h2{font-size:46px!important}.footer-links a{color:#ccc;text-decoration:none}.footer-links a:hover{text-decoration:underline}@media(max-width:767px){.aim-hero h1{font-size:36px!important}.aim-section-title h2{font-size:31px!important}.service-card{min-height:auto}.aim-cta h2{font-size:34px!important}}\n</style>"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "1603803",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Build Winning Election Blueprints",
+                "header_size": "h1",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "a839c0c",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Data-Driven Ground Strategy <span style=\"color:#FFD700\">|</span> Voter Mood Mapping <span style=\"color:#FFD700\">|</span> 24x7 War-Room Management",
+                "header_size": "h4",
+                "align": "left",
+                "title_color": "#FFD700",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 24
+                },
+                "_css_classes": "hero-kicker"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "b52f511",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "From booth-level voter intelligence to viral campaign narratives, we deliver election victories through scientific strategy, not guesswork.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left",
+                "_css_classes": "hero-copy"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "d9cb8f6",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Book Free Strategy Session",
+                "link": {
+                  "url": "/free-consultation/"
+                },
+                "align": "left",
+                "button_type": "default",
+                "background_color": "#FF6B35",
+                "button_text_color": "#ffffff",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_weight": "700",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "4",
+                  "right": "4",
+                  "bottom": "4",
+                  "left": "4"
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "15",
+                  "right": "28",
+                  "bottom": "15",
+                  "left": "28"
+                },
+                "selected_icon": {
+                  "value": "fas fa-phone",
+                  "library": "fa-solid"
+                },
+                "_css_classes": "hero-primary"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "8d9d9b0",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "View Case Studies",
+                "link": {
+                  "url": "/case-studies/"
+                },
+                "align": "left",
+                "button_type": "default",
+                "background_color": "#FF6B35",
+                "button_text_color": "#ffffff",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_weight": "700",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "4",
+                  "right": "4",
+                  "bottom": "4",
+                  "left": "4"
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "15",
+                  "right": "28",
+                  "bottom": "15",
+                  "left": "28"
+                },
+                "_css_classes": "hero-secondary"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "743849e",
+      "elType": "section",
+      "settings": {
+        "content_width": "boxed",
+        "gap": "extended",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "20",
+          "bottom": "80",
+          "left": "20"
+        }
+      },
+      "elements": [
+        {
+          "id": "3fe5a6e",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "2b26fa8",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Our Political Strategy & Campaign Management Services",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700",
+                "_css_classes": "aim-section-title"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "adc3054",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "We don't just run campaigns—we engineer victories. Here's how:",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "center"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "098d2f1",
+      "elType": "section",
+      "settings": {
+        "content_width": "boxed",
+        "gap": "extended",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "20",
+          "bottom": "0",
+          "left": "20"
+        },
+        "_css_classes": "services-section",
+        "background_background": "classic",
+        "background_color": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "82ed4a9",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_css_classes": "service-card"
+          },
+          "elements": [
+            {
+              "id": "63f8101",
+              "elType": "widget",
+              "widgetType": "icon",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-map-marked-alt",
+                  "library": "fa-solid"
+                },
+                "primary_color": "#FF6B35",
+                "size": {
+                  "unit": "px",
+                  "size": 42
+                },
+                "_css_classes": "card-icon"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "ac616f8",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Ground Surveys & Voter Mood Mapping",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "fd0ba84",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Hyper-local constituency analysis with booth-level accuracy. We identify support pockets, swing voters, and ground sentiment in real time.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "a167fe4",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<ul><li>✓ Constituency-level demographic analysis</li><li>✓ Booth-wise voter profiling</li><li>✓ Real-time mood tracking</li><li>✓ Competitor analysis reports</li></ul>",
+                "text_color": "#555555",
+                "_css_classes": "check-list"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "b34fa78",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_css_classes": "service-card"
+          },
+          "elements": [
+            {
+              "id": "2c8c805",
+              "elType": "widget",
+              "widgetType": "icon",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-comment-dots",
+                  "library": "fa-solid"
+                },
+                "primary_color": "#00B4D8",
+                "size": {
+                  "unit": "px",
+                  "size": 42
+                },
+                "_css_classes": "card-icon"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "0eed40e",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Strategic Narrative Development",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "f171cc2",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Craft election narratives that resonate. From core messaging to counter-narratives, we build stories that win hearts and minds.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "784d638",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<ul><li>✓ Core narrative development</li><li>✓ Candidate positioning strategy</li><li>✓ Counter-narrative planning</li><li>✓ Message testing & refinement</li></ul>",
+                "text_color": "#555555",
+                "_css_classes": "check-list"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "f165d33",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_css_classes": "service-card"
+          },
+          "elements": [
+            {
+              "id": "1359331",
+              "elType": "widget",
+              "widgetType": "icon",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-bullhorn",
+                  "library": "fa-solid"
+                },
+                "primary_color": "#06D6A0",
+                "size": {
+                  "unit": "px",
+                  "size": 42
+                },
+                "_css_classes": "card-icon"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "a3ed13a",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Booth Management & Ground Activation",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "32e97cc",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Seamless ground campaign execution that coordinates volunteers, voter contact, and polling-day excellence.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "31667ba",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<ul><li>✓ Booth-wise campaign plans</li><li>✓ Volunteer coordination system</li><li>✓ Poll day management</li><li>✓ Real-time booth reporting</li></ul>",
+                "text_color": "#555555",
+                "_css_classes": "check-list"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "b24f98b",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_css_classes": "service-card"
+          },
+          "elements": [
+            {
+              "id": "7643e7d",
+              "elType": "widget",
+              "widgetType": "icon",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-satellite-dish",
+                  "library": "fa-solid"
+                },
+                "primary_color": "#FF006E",
+                "size": {
+                  "unit": "px",
+                  "size": 42
+                },
+                "_css_classes": "card-icon"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "80fdfed",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "24x7 War-Room Command Center",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "273606f",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Real-time strategy adjustments, rapid deployment capability, and crisis mitigation throughout campaign phases.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "4c76ff8",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<ul><li>✓ Real-time campaign monitoring</li><li>✓ Strategy adjustments (24x7)</li><li>✓ Rapid response team</li><li>✓ Live sentiment tracking dashboard</li></ul>",
+                "text_color": "#555555",
+                "_css_classes": "check-list"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "17ff134",
+      "elType": "section",
+      "settings": {
+        "content_width": "boxed",
+        "gap": "extended",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "20",
+          "bottom": "80",
+          "left": "20"
+        },
+        "_css_classes": "process-section",
+        "background_background": "classic",
+        "background_color": "#F5F5F5"
+      },
+      "elements": [
+        {
+          "id": "b36a45c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "29a31e3",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Our Political Strategy & Campaign Management Process",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700",
+                "_css_classes": "aim-section-title"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "99698e3",
+              "elType": "widget",
+              "widgetType": "tabs",
+              "settings": {
+                "tabs": [
+                  {
+                    "tab_title": "Phase 1: Intelligence Gathering",
+                    "tab_content": "<div class=\"phase-content\"><h3>Build Your Foundation</h3><p>Before we launch, we analyze. Deep.</p><h4>Key services</h4><ul><li>Ground-level voter surveys across all booths</li><li>Demographic & psychographic profiling</li><li>Opposition strength analysis</li><li>Media sentiment mapping</li><li>Digital footprint assessment</li><li>Competitor campaign blueprint review</li></ul><p><strong>Outcome:</strong> Comprehensive constituency snapshot with strategic recommendations</p><p><strong>Deliverables:</strong> Voter sentiment report • Booth-wise analysis map • Competitor intelligence brief • Digital landscape audit</p></div>",
+                    "_id": "e099a5c"
+                  },
+                  {
+                    "tab_title": "Phase 2: Strategy Design",
+                    "tab_content": "<div class=\"phase-content\"><h3>Create Your Winning Blueprint</h3><p>Raw data becomes a winning strategy here.</p><h4>Key services</h4><ul><li>Core narrative & messaging framework</li><li>Candidate unique selling proposition (USP)</li><li>Swing voter targeting strategy</li><li>Counter-opposition narrative</li><li>Multi-phase campaign calendar</li><li>Budget allocation strategy</li></ul><p><strong>Outcome:</strong> A data-backed campaign playbook unique to your constituency</p><p><strong>Deliverables:</strong> Campaign strategy document • Messaging guidelines • 90-day campaign calendar • Budget breakdown</p></div>",
+                    "_id": "a83ba8d"
+                  },
+                  {
+                    "tab_title": "Phase 3: Ground Campaign",
+                    "tab_content": "<div class=\"phase-content\"><h3>Turn Strategy Into Votes</h3><p>Execution is everything. Here's how we dominate ground.</p><h4>Key services</h4><ul><li>Booth-wise campaign plan deployment</li><li>Volunteer recruitment & training</li><li>Voter contact operations</li><li>Social media real-time campaigns</li><li>Digital ads with hyper-local targeting</li><li>Press engagement & event coordination</li></ul><p><strong>Outcome:</strong> Maximum ground presence, maximum voter contact, maximum impact</p><p><strong>Deliverables:</strong> Volunteer dashboard • Daily progress tracker • 30+ post calendar • Real-time analytics</p></div>",
+                    "_id": "bc63f02"
+                  },
+                  {
+                    "tab_title": "Phase 4: Live Monitoring",
+                    "tab_content": "<div class=\"phase-content\"><h3>Stay Ahead During Campaign</h3><p>Static plans do not win elections. We adapt in real-time.</p><h4>Key services</h4><ul><li>Daily sentiment tracking</li><li>Voter contact metrics monitoring</li><li>Competitor move analysis</li><li>Real-time narrative adjustments</li><li>Crisis response readiness</li><li>Weekly strategy reviews</li></ul><p><strong>Outcome:</strong> Always in control. Always ahead. Always winning.</p><p><strong>Deliverables:</strong> Sentiment index • Campaign reach • Virality score • Ground contacts • Budget efficiency</p></div>",
+                    "_id": "dc02e02"
+                  },
+                  {
+                    "tab_title": "Phase 5: Poll Day & Beyond",
+                    "tab_content": "<div class=\"phase-content\"><h3>Victory Day Operations</h3><p>The final sprint. Where victories are sealed.</p><h4>Key services</h4><ul><li>Poll day booth management</li><li>Voter coordination & verification</li><li>Real-time result tracking</li><li>Victory narrative launch</li><li>Post-election media strategy</li><li>Post-campaign analysis</li></ul><p><strong>Outcome:</strong> Clean victory and a foundation for the next phase.</p><p><strong>Deliverables:</strong> Poll-day operation manual • Booth success tracker • Victory press kit • Impact report</p></div>",
+                    "_id": "ceb88d6"
+                  }
+                ],
+                "tabs_position": "horizontal",
+                "_css_classes": "process-tabs"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "7737ec2",
+      "elType": "section",
+      "settings": {
+        "content_width": "boxed",
+        "gap": "extended",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "20",
+          "bottom": "80",
+          "left": "20"
+        },
+        "_css_classes": "aim-dark"
+      },
+      "elements": [
+        {
+          "id": "480469a",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "426fae9",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Why Political Leaders Trust AIM-PACT",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700",
+                "_css_classes": "aim-section-title"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "f211849",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_css_classes": "pillar-card"
+          },
+          "elements": [
+            {
+              "id": "eee52db",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "100% Data-Driven Approach",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "9fa0d4a",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "No guesswork. Every decision is backed by voter surveys, sentiment analysis, and ground intelligence.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "b8601ee",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_css_classes": "pillar-card"
+          },
+          "elements": [
+            {
+              "id": "b3a47ed",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "24x7 War-Room Management",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "1640ca4",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Round-the-clock campaign monitoring, strategy adjustments, and crisis response ready to deploy.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "e692edf",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_css_classes": "pillar-card"
+          },
+          "elements": [
+            {
+              "id": "8d9224e",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "150+ Election Victories",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "cde331c",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "From municipal elections to state assemblies, our track record speaks for itself.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "3d74c30",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_css_classes": "pillar-card"
+          },
+          "elements": [
+            {
+              "id": "ce0b5ec",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Hyper-Local Booth Expertise",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "dc4c1dd",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Booth-level profiling, volunteer coordination, and grassroots activation that wins constituencies.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "416b598",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_css_classes": "pillar-card"
+          },
+          "elements": [
+            {
+              "id": "35df4a6",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Instant Campaign Launch",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "f8f1f2f",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "From strategy approval to ground deployment in 48 hours. Elections wait for no one.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "5db4466",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_css_classes": "pillar-card"
+          },
+          "elements": [
+            {
+              "id": "694b0e8",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Real-Time Dashboards & Reporting",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "bba51a5",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Weekly progress reports, live performance tracking, and success metrics you can trust.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "f6b1ba1",
+      "elType": "section",
+      "settings": {
+        "content_width": "boxed",
+        "gap": "extended",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "20",
+          "bottom": "80",
+          "left": "20"
+        },
+        "_css_classes": "case-section",
+        "background_background": "classic",
+        "background_color": "#fff"
+      },
+      "elements": [
+        {
+          "id": "1df104a",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "93bc29b",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Political Leaders Who Won With Our Strategy",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700",
+                "_css_classes": "aim-section-title"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "f9fe9b8",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_css_classes": "case-card"
+          },
+          "elements": [
+            {
+              "id": "18a5dca",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "MLA Victory – Vikaspuri Assembly",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "33037d1",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Pankaj Kumar Singh (MLA)",
+                "header_size": "h5",
+                "align": "left",
+                "title_color": "#FF6B35"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "6a3b73a",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "“AIM-PACT’s booth-level voter mapping turned a tough race into a landslide. 300% increase in ground engagement.”",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "0cc162f",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "✓ Won by 25,000+ votes<br>✓ 6-month campaign cycle<br>✓ 80+ booth coordination",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "803d7ca",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "View Full Case Study",
+                "link": {
+                  "url": "/case-studies/"
+                },
+                "align": "left",
+                "button_type": "default",
+                "background_color": "#FF6B35",
+                "button_text_color": "#ffffff",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_weight": "700",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "4",
+                  "right": "4",
+                  "bottom": "4",
+                  "left": "4"
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "15",
+                  "right": "28",
+                  "bottom": "15",
+                  "left": "28"
+                }
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "cdf6b89",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_css_classes": "case-card"
+          },
+          "elements": [
+            {
+              "id": "d8eb743",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Nagar Palika Success – Municipal Elections",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "ac8a414",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Rajesh Gupta ‘Goldi’",
+                "header_size": "h5",
+                "align": "left",
+                "title_color": "#FF6B35"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "45823bb",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "“Their digital strategy brought us a 300% engagement boost. War-room management was game-changing.”",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "168636e",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "✓ Won by 10,000+ votes<br>✓ 4-month campaign<br>✓ Viral social media",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "9bdc605",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "View Full Case Study",
+                "link": {
+                  "url": "/case-studies/"
+                },
+                "align": "left",
+                "button_type": "default",
+                "background_color": "#FF6B35",
+                "button_text_color": "#ffffff",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_weight": "700",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "4",
+                  "right": "4",
+                  "bottom": "4",
+                  "left": "4"
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "15",
+                  "right": "28",
+                  "bottom": "15",
+                  "left": "28"
+                }
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "cf3022a",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_css_classes": "case-card"
+          },
+          "elements": [
+            {
+              "id": "33605a6",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Regional Campaign Coordination",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "2729069",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Political Journalist & Analyst",
+                "header_size": "h5",
+                "align": "left",
+                "title_color": "#FF6B35"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "0a27063",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "“Their media strategy neutralizes negative press instantly. Next-level political communication.”",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "5c6cd41",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "✓ Managed 5-district campaign<br>✓ 24x7 crisis response<br>✓ 98% media favorability",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "08f5aca",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "View Full Case Study",
+                "link": {
+                  "url": "/case-studies/"
+                },
+                "align": "left",
+                "button_type": "default",
+                "background_color": "#FF6B35",
+                "button_text_color": "#ffffff",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_weight": "700",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "4",
+                  "right": "4",
+                  "bottom": "4",
+                  "left": "4"
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "15",
+                  "right": "28",
+                  "bottom": "15",
+                  "left": "28"
+                }
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "941bbf8",
+      "elType": "section",
+      "settings": {
+        "content_width": "boxed",
+        "gap": "extended",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "20",
+          "bottom": "80",
+          "left": "20"
+        },
+        "_css_classes": "aim-timeline"
+      },
+      "elements": [
+        {
+          "id": "aed124b",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "ecaae68",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Your Political Campaign Timeline",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700",
+                "_css_classes": "aim-section-title"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "4c876b4",
+          "elType": "column",
+          "settings": {
+            "_column_size": 20,
+            "_css_classes": "timeline-item"
+          },
+          "elements": [
+            {
+              "id": "cd91fc5",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "MONTH 1",
+                "header_size": "h5",
+                "align": "left",
+                "title_color": "#FFD700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "6585dd1",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Intelligence & Strategy",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "fadb6bf",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "✓ Voter surveys completed<br>✓ Strategy document finalized<br>✓ Team assembly & training",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "7cba7c1",
+          "elType": "column",
+          "settings": {
+            "_column_size": 20,
+            "_css_classes": "timeline-item"
+          },
+          "elements": [
+            {
+              "id": "dd1e379",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "MONTH 2",
+                "header_size": "h5",
+                "align": "left",
+                "title_color": "#FFD700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "60d23c5",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Campaign Setup",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "eb40f1b",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "✓ Content calendar created<br>✓ Social media scheduled<br>✓ Volunteer teams activated",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "f841332",
+          "elType": "column",
+          "settings": {
+            "_column_size": 20,
+            "_css_classes": "timeline-item"
+          },
+          "elements": [
+            {
+              "id": "3b49786",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "MONTH 3",
+                "header_size": "h5",
+                "align": "left",
+                "title_color": "#FFD700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "b5b4413",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Ground Campaign Launch",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "18c237b",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "✓ Rallies & public meetings<br>✓ Door-to-door campaigns<br>✓ Digital ads live",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "0294f1c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 20,
+            "_css_classes": "timeline-item"
+          },
+          "elements": [
+            {
+              "id": "084f8b2",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "MONTH 4+",
+                "header_size": "h5",
+                "align": "left",
+                "title_color": "#FFD700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "d7d9772",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Peak Campaign Activity",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "0f7d61a",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "✓ Real-time strategy adjustments<br>✓ Crisis management ready<br>✓ War-room active 24x7",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "943bb7a",
+          "elType": "column",
+          "settings": {
+            "_column_size": 20,
+            "_css_classes": "timeline-item"
+          },
+          "elements": [
+            {
+              "id": "9c3877d",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "ELECTION DAY",
+                "header_size": "h5",
+                "align": "left",
+                "title_color": "#FFD700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "f499bf3",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Poll Day Excellence",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "3a22107",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "✓ Booth management live<br>✓ Result tracking active<br>✓ Victory narrative ready",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "7399f4f",
+      "elType": "section",
+      "settings": {
+        "content_width": "boxed",
+        "gap": "extended",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "20",
+          "bottom": "80",
+          "left": "20"
+        },
+        "_css_classes": "tools-section",
+        "background_background": "classic",
+        "background_color": "#F5F5F5"
+      },
+      "elements": [
+        {
+          "id": "9a64d36",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "0cea275",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Our Campaign Management Technology Stack",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700",
+                "_css_classes": "aim-section-title"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "0c7ae29",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_css_classes": "tool-card"
+          },
+          "elements": [
+            {
+              "id": "7106541",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Real-Time Campaign Dashboard",
+                "header_size": "h4",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "fd9ffa4",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Monitor voter engagement, reach, and sentiment 24x7.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "55f68fa",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_css_classes": "tool-card"
+          },
+          "elements": [
+            {
+              "id": "a7155ad",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Booth-Level Management Software",
+                "header_size": "h4",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "5b4fd87",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Organize volunteers, track voter contact, and manage operations.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "932881f",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_css_classes": "tool-card"
+          },
+          "elements": [
+            {
+              "id": "8635cac",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Voter Intelligence Database",
+                "header_size": "h4",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "38e7b1f",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Profiling with demographic, psychographic, and engagement data.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "8ed4c6e",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_css_classes": "tool-card"
+          },
+          "elements": [
+            {
+              "id": "e71d7b8",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Multi-Channel Social Media Hub",
+                "header_size": "h4",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "4df386e",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Schedule and optimize content across key platforms.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "3b93c0b",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_css_classes": "tool-card"
+          },
+          "elements": [
+            {
+              "id": "8d449f7",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Bulk Email & SMS Campaigns",
+                "header_size": "h4",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "2858875",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Send targeted messages with automated tracking.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "7b6a27f",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_css_classes": "tool-card"
+          },
+          "elements": [
+            {
+              "id": "bc6adf7",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Professional Video Creation",
+                "header_size": "h4",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "089dd78",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "In-house video production for ads and viral content.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "efb61ad",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_css_classes": "tool-card"
+          },
+          "elements": [
+            {
+              "id": "5baddd6",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Rapid Response Command Center",
+                "header_size": "h4",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "5bcd01a",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "24x7 alerts and response templates for a crisis.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "93e2744",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_css_classes": "tool-card"
+          },
+          "elements": [
+            {
+              "id": "7be0c45",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "AI-Powered Sentiment Tracking",
+                "header_size": "h4",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "289c21d",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Track voter mood and emerging campaign issues.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "791bdac",
+      "elType": "section",
+      "settings": {
+        "content_width": "boxed",
+        "gap": "extended",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "20",
+          "bottom": "80",
+          "left": "20"
+        },
+        "_css_classes": "pricing-section",
+        "background_background": "classic",
+        "background_color": "#fff"
+      },
+      "elements": [
+        {
+          "id": "14a85f8",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "cd87f07",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Campaign Packages That Fit Your Needs",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700",
+                "_css_classes": "aim-section-title"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "6a7e119",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "From local elections to state-wide campaigns",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "center"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "1f2fdbf",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_css_classes": "price-card"
+          },
+          "elements": [
+            {
+              "id": "a49ab09",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "MOST POPULAR",
+                "header_size": "h6",
+                "align": "center",
+                "title_color": "#FF6B35"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "7e4c95a",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "GRASSROOTS",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "9abadae",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "₹2,50,000 – ₹5,00,000",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#1a1a1a"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "a479b14",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<strong>Best for:</strong> Municipal / Ward-level elections<br><strong>Duration:</strong> 3 months",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "center"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "b228f8e",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "✓ Voter surveys (500+ sample)<br>✓ Basic booth management<br>✓ 20 social posts/month<br>✓ Weekly strategy meetings<br>✓ Basic analytics dashboard",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "d4d7cb5",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Get Custom Quote",
+                "link": {
+                  "url": "/free-consultation/"
+                },
+                "align": "left",
+                "button_type": "default",
+                "background_color": "#FF6B35",
+                "button_text_color": "#ffffff",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_weight": "700",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "4",
+                  "right": "4",
+                  "bottom": "4",
+                  "left": "4"
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "15",
+                  "right": "28",
+                  "bottom": "15",
+                  "left": "28"
+                }
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "f057fd1",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_css_classes": "price-card price-featured"
+          },
+          "elements": [
+            {
+              "id": "fc5c087",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "RECOMMENDED",
+                "header_size": "h6",
+                "align": "center",
+                "title_color": "#FF6B35"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "aa9df13",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "ASSEMBLY VICTORY",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "0e8e31d",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "₹5,00,000 – ₹12,00,000",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#1a1a1a"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "e462f47",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<strong>Best for:</strong> Assembly / Legislative elections<br><strong>Duration:</strong> 4–6 months",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "center"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "1e27abf",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "✓ Comprehensive 2,000+ voter survey<br>✓ Full booth-level management<br>✓ Social media + digital ads<br>✓ Professional video production<br>✓ 24x7 war-room (last 60 days)<br>✓ Crisis management plan",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "6b26176",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Book Free Consultation",
+                "link": {
+                  "url": "/free-consultation/"
+                },
+                "align": "left",
+                "button_type": "default",
+                "background_color": "#FF6B35",
+                "button_text_color": "#ffffff",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_weight": "700",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "4",
+                  "right": "4",
+                  "bottom": "4",
+                  "left": "4"
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "15",
+                  "right": "28",
+                  "bottom": "15",
+                  "left": "28"
+                }
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "7c818f0",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_css_classes": "price-card"
+          },
+          "elements": [
+            {
+              "id": "a8f5631",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "ENTERPRISE",
+                "header_size": "h6",
+                "align": "center",
+                "title_color": "#FF6B35"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "d7aa90c",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "VICTORY UNLIMITED",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "3291c33",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "₹12,00,000+",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#1a1a1a"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "d52e0d2",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<strong>Best for:</strong> State-wide / Multi-constituency<br><strong>Duration:</strong> 6+ months",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "center"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "242a00c",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "✓ Complete strategic ecosystem<br>✓ Multi-constituency intelligence<br>✓ Full production house<br>✓ 24x7 war-room<br>✓ AI sentiment analysis<br>✓ Dedicated campaign manager<br>✓ Post-election analysis",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "3520b8b",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Schedule Strategy Call",
+                "link": {
+                  "url": "/free-consultation/"
+                },
+                "align": "left",
+                "button_type": "default",
+                "background_color": "#FF6B35",
+                "button_text_color": "#ffffff",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_weight": "700",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "4",
+                  "right": "4",
+                  "bottom": "4",
+                  "left": "4"
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "15",
+                  "right": "28",
+                  "bottom": "15",
+                  "left": "28"
+                }
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "8515acd",
+      "elType": "section",
+      "settings": {
+        "content_width": "boxed",
+        "gap": "extended",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "20",
+          "bottom": "80",
+          "left": "20"
+        },
+        "_css_classes": "faq-section",
+        "background_background": "classic",
+        "background_color": "#F5F5F5"
+      },
+      "elements": [
+        {
+          "id": "d11bc89",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "b373576",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Frequently Asked Questions",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700",
+                "_css_classes": "aim-section-title"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "16a52e1",
+              "elType": "widget",
+              "widgetType": "accordion",
+              "settings": {
+                "tabs": [
+                  {
+                    "tab_title": "How long does a typical campaign take?",
+                    "tab_content": "<p>Most campaigns range from 3–6 months depending on the election type. We provide a customized timeline during your free strategy consultation.</p>",
+                    "_id": "93943ce"
+                  },
+                  {
+                    "tab_title": "What if my opponent gets a stronger lead mid-campaign?",
+                    "tab_content": "<p>Our 24x7 war-room monitors sentiment and adjusts strategy rapidly with targeted interventions and ground activation.</p>",
+                    "_id": "20d48dc"
+                  },
+                  {
+                    "tab_title": "How do you ensure voter data security?",
+                    "tab_content": "<p>Voter data is encrypted, stored securely, and handled in accordance with applicable Indian election laws.</p>",
+                    "_id": "884c769"
+                  },
+                  {
+                    "tab_title": "Can you guarantee a victory?",
+                    "tab_content": "<p>We guarantee rigorous strategy, data analysis, and execution excellence. Election outcomes depend on multiple factors beyond anyone’s control.</p>",
+                    "_id": "e99ae82"
+                  },
+                  {
+                    "tab_title": "Do you work with smaller, local elections?",
+                    "tab_content": "<p>Yes. Our Grassroots package is designed for municipal, ward-level, and local body elections.</p>",
+                    "_id": "699f1ac"
+                  },
+                  {
+                    "tab_title": "How much of the campaign is digital versus ground?",
+                    "tab_content": "<p>A typical recommendation is a 60% ground / 40% digital mix, customized to constituency demographics.</p>",
+                    "_id": "9759c85"
+                  },
+                  {
+                    "tab_title": "What if we have a crisis during the campaign?",
+                    "tab_content": "<p>Our crisis response team prepares counter-narratives, media outreach, and reputation-management actions within 24 hours.</p>",
+                    "_id": "fc9c717"
+                  },
+                  {
+                    "tab_title": "How do you measure campaign success?",
+                    "tab_content": "<p>We track 15+ indicators including sentiment, reach, engagement, ground contact, media value, and campaign momentum.</p>",
+                    "_id": "2af3f93"
+                  },
+                  {
+                    "tab_title": "Can you work for multiple candidates in the same election?",
+                    "tab_content": "<p>No. We maintain constituency exclusivity to protect strategic focus and prevent conflicts of interest.</p>",
+                    "_id": "3fec8c7"
+                  },
+                  {
+                    "tab_title": "What happens after the election?",
+                    "tab_content": "<p>We provide post-election analysis, victory media management, and documentation for future campaigns.</p>",
+                    "_id": "5eefe0c"
+                  }
+                ],
+                "_css_classes": "faq-accordion"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "432450b",
+      "elType": "section",
+      "settings": {
+        "content_width": "boxed",
+        "gap": "extended",
+        "padding": {
+          "unit": "px",
+          "top": "60",
+          "right": "20",
+          "bottom": "60",
+          "left": "20"
+        },
+        "_css_classes": "aim-dark"
+      },
+      "elements": [
+        {
+          "id": "31d5c9c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25
+          },
+          "elements": [
+            {
+              "id": "bf9593a",
+              "elType": "widget",
+              "widgetType": "counter",
+              "settings": {
+                "ending_number": "150",
+                "title": "Election Campaigns Won",
+                "number_suffix": "+",
+                "title_color": "#ffffff",
+                "number_color": "#FFB703",
+                "_css_classes": "stat-counter"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "d42b450",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25
+          },
+          "elements": [
+            {
+              "id": "dfd9a0e",
+              "elType": "widget",
+              "widgetType": "counter",
+              "settings": {
+                "ending_number": "8",
+                "title": "Strategic Excellence",
+                "number_suffix": "+",
+                "title_color": "#ffffff",
+                "number_color": "#FFB703",
+                "_css_classes": "stat-counter"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "3655bc9",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25
+          },
+          "elements": [
+            {
+              "id": "d962a0b",
+              "elType": "widget",
+              "widgetType": "counter",
+              "settings": {
+                "ending_number": "80",
+                "title": "Political Leaders Trust Us",
+                "number_suffix": "+",
+                "title_color": "#ffffff",
+                "number_color": "#FFB703",
+                "_css_classes": "stat-counter"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "a7a0690",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25
+          },
+          "elements": [
+            {
+              "id": "1029a4a",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "24x7",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#FFB703",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700",
+                "_css_classes": "stat-number"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "774c164",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "War-Room Availability",
+                "header_size": "h5",
+                "align": "center",
+                "title_color": "#ffffff",
+                "_css_classes": "stat-label"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "9f46cda",
+      "elType": "section",
+      "settings": {
+        "content_width": "boxed",
+        "gap": "extended",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "20",
+          "bottom": "80",
+          "left": "20"
+        },
+        "_css_classes": "testimonial-section",
+        "background_background": "classic",
+        "background_color": "#fff"
+      },
+      "elements": [
+        {
+          "id": "5925fb6",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "1a4baed",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "What Political Leaders Say",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700",
+                "_css_classes": "aim-section-title"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "6455281",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_css_classes": "case-card"
+          },
+          "elements": [
+            {
+              "id": "26b8dc1",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "★★★★★",
+                "header_size": "h5",
+                "align": "left",
+                "title_color": "#FFB703"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "d00ed99",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "“AIM-PACT’s booth-level voter mapping gave us an unfair advantage. Their war-room and viral social strategy turned a competitive race into a dominant victory.”",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "b6105c9",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Pankaj Kumar Singh",
+                "header_size": "h4",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "de1d398",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "MLA, Vikaspuri Assembly",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "408470d",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_css_classes": "case-card"
+          },
+          "elements": [
+            {
+              "id": "8e5bdd3",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "★★★★★",
+                "header_size": "h5",
+                "align": "left",
+                "title_color": "#FFB703"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "239ca2c",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "“We saw a 300% increase in digital engagement in one month. Their constituency-level strategy was the best investment we made.”",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "7cc7e9a",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Rajesh Gupta ‘Goldi’",
+                "header_size": "h4",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "9da2174",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Nagar Palika Parishad",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "4659ca1",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_css_classes": "case-card"
+          },
+          "elements": [
+            {
+              "id": "1dd9878",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "★★★★★",
+                "header_size": "h5",
+                "align": "left",
+                "title_color": "#FFB703"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "ce7ca57",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "“Their narrative building is genius. Political communication at its finest.”",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "201e5b8",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Media Journalist & Political Analyst",
+                "header_size": "h4",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "2377825",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Political Communication Expert",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "4e26f37",
+      "elType": "section",
+      "settings": {
+        "content_width": "boxed",
+        "gap": "extended",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "20",
+          "bottom": "100",
+          "left": "20"
+        },
+        "_css_classes": "aim-cta"
+      },
+      "elements": [
+        {
+          "id": "d5ff746",
+          "elType": "column",
+          "settings": {
+            "_column_size": 58
+          },
+          "elements": [
+            {
+              "id": "dba8a65",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Ready to Build Your Election Victory?",
+                "header_size": "h2",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "523f732",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Your next election is your most important one. Let’s build a data-driven, strategy-backed campaign that wins.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "1d1cde0",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Schedule a 45-minute free strategy session with our war-room team. We’ll analyze your constituency, identify opportunities, and create a custom campaign blueprint. No obligation. Pure strategic insight.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "5c262dc",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Book Free Strategy Call",
+                "link": {
+                  "url": "/free-consultation/"
+                },
+                "align": "left",
+                "button_type": "default",
+                "background_color": "#FF6B35",
+                "button_text_color": "#ffffff",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_weight": "700",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "4",
+                  "right": "4",
+                  "bottom": "4",
+                  "left": "4"
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "15",
+                  "right": "28",
+                  "bottom": "15",
+                  "left": "28"
+                },
+                "selected_icon": {
+                  "value": "fas fa-phone",
+                  "library": "fa-solid"
+                },
+                "_css_classes": "cta-button"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "c276a37",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Call Directly: +91 9454286163",
+                "link": {
+                  "url": "tel:+919454286163"
+                },
+                "align": "left",
+                "button_type": "default",
+                "background_color": "#FF6B35",
+                "button_text_color": "#ffffff",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_weight": "700",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "4",
+                  "right": "4",
+                  "bottom": "4",
+                  "left": "4"
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "15",
+                  "right": "28",
+                  "bottom": "15",
+                  "left": "28"
+                },
+                "_css_classes": "cta-phone"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "4b784c7",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<strong>MSME Registered &nbsp;|&nbsp; Google Partner Certified &nbsp;|&nbsp; 150+ Campaign Wins</strong>",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "d81dd4c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 42
+          },
+          "elements": [
+            {
+              "id": "8fdc24a",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1000&q=85",
+                  "id": 0
+                },
+                "alt": "A campaign strategy team planning together",
+                "image_size": "full",
+                "_css_classes": "campaign-image"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "515ebe6",
+      "elType": "section",
+      "settings": {
+        "content_width": "boxed",
+        "gap": "extended",
+        "padding": {
+          "unit": "px",
+          "top": "60",
+          "right": "20",
+          "bottom": "60",
+          "left": "20"
+        },
+        "_css_classes": "aim-dark"
+      },
+      "elements": [
+        {
+          "id": "db2b701",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_css_classes": "footer-links"
+          },
+          "elements": [
+            {
+              "id": "50083f5",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "About AIM-PACT",
+                "header_size": "h4",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "0edac24",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "India’s premier 360° Political Strategy, Media PR & Digital Consulting agency. We empower leaders and brands with data-driven campaigns, war-room setups, and viral digital media.",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "9083269",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_css_classes": "footer-links"
+          },
+          "elements": [
+            {
+              "id": "4d8b814",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Quick Links",
+                "header_size": "h4",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "406c71e",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<a href=\"/\">Home</a><br><a href=\"/services/\">Services</a><br><a href=\"/about-us/\">About Us</a><br><a href=\"/case-studies/\">Case Studies</a><br><a href=\"/free-consultation/\">Free Consultation</a><br><a href=\"/contact-us/\">Contact</a>",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "40c5bac",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_css_classes": "footer-links"
+          },
+          "elements": [
+            {
+              "id": "36a1f18",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Our Services",
+                "header_size": "h4",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "8f867af",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<a href=\"/political-strategy-campaign-management/\">Political Strategy & Campaign</a><br><a href=\"/media-pr-crisis-shield/\">Media & PR Crisis Shield</a><br><a href=\"/digital-marketing-seo/\">Digital Marketing & SEO</a><br><a href=\"/web-app-development/\">Web & App Development</a><br><a href=\"/tech-advisory/\">Tech Advisory</a>",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "84c35cd",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_css_classes": "footer-links"
+          },
+          "elements": [
+            {
+              "id": "b508d2c",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Contact Info",
+                "header_size": "h4",
+                "align": "left",
+                "title_color": "#1a1a1a",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "7bac1c7",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "E2/0071, Ansal API, Sushant Golf City, Lucknow, UP 226030<br><br><a href=\"tel:+919454286163\">+91 9454286163</a><br>+91 6394625082<br><br><a href=\"mailto:info@akshantmedia.in\">info@akshantmedia.in</a><br><br>Mon–Sat, 9:00 AM – 7:00 PM",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "align": "left"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "4030e8f",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Get Free Consultation",
+                "link": {
+                  "url": "/free-consultation/"
+                },
+                "align": "left",
+                "button_type": "default",
+                "background_color": "#FF6B35",
+                "button_text_color": "#ffffff",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans",
+                "typography_font_weight": "700",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "4",
+                  "right": "4",
+                  "bottom": "4",
+                  "left": "4"
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "15",
+                  "right": "28",
+                  "bottom": "15",
+                  "left": "28"
+                }
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": [],
+  "status": "publish"
+}
